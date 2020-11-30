@@ -15,3 +15,4 @@ https://coursework.vschool.io/block-vs-inline-newsies/
 * The link for displaying an html file as a regular web page is found right above the output in the repl html editor. 
 * Please submit the link to your web page in Canvas.
 * ![Clone GitHub](https://github.com/cmcntsh/N6806_Fall2020_DevNotes/blob/master/Images/replPageLink.JPG)
+Submit Final Assignment
