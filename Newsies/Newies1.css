@@ -1,0 +1,48 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 30;
+    font-family: 'open Sans', Sans -sarif;
+    }
+    
+    
+    .header {
+      display: block;
+      text-align: center;
+      margin-bottom: 60px;
+      font-size: 50px;
+      font-weight: bold;
+      color:red;
+      background-color: yellow;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      border-bottom: 2px solid #2f2f2f;
+      
+    }
+    
+    h2 {
+      display: block;
+       text-align: center;
+        margin-bottom: 20px;
+        font-size: 48px;
+        background-color: grey;
+    }
+    
+    .container{
+      column-count: 3;
+    }
+    .p-1, .p-2, .p-3 {
+      display: inline-block;
+      border-top: 2px solid #2f2f2f;
+      border-bottom: 2px solid #2f2f2f;
+      font-weight: bold;
+       
+    }
+    
+    span{
+      color: gray;
+      font-weight: 900;
+       
+    }
+       
+    
